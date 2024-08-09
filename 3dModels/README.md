@@ -27,6 +27,5 @@ Some external models have been modified to fit the needs of this project. These 
 
 - **modifiedModels/**: Contains modified versions of external 3D models. Each file is accompanied by a description of the modifications made.
 
-
-### Attribution and Licensing
+## Attribution and Licensing
 We respect the original creators of the external models and have included all necessary attributions and licenses as provided by the authors. If you are one of the original creators and would like additional credit or have any concerns, please contact us.

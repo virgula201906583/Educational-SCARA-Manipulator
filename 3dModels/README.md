@@ -13,11 +13,11 @@ Some models used in this project were sourced from external creators. Each model
 
 - **externalModels/**: Contains 3D models that were sourced from external creators. Each subfolder includes the model file(s).
 
-  - ***Scara robotic arm***:  
+  - ***scaraRoboticArm/***:  
     [Scara robotic arm for educational purposes.]  
     [https://www.thingiverse.com/thing:1241491]
 
-  - ***AS5600 NEMA 17 bracket***:  
+  - ***as5600Bracket/***:  
     [AS5600 3D-printable bracket for NEMA17 stepper motor.]  
     [https://curiousscientist.tech/blog/as5600-magnetic-position-encoder]
 

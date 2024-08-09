@@ -11,7 +11,6 @@ This project aims to design and develop an affordable and safe SCARA manipulator
 - **Customizable:** Tailored for educational purposes with user-friendly features.
 
 ## Repository Structure
-- **3D_Models/** - All 3D design files, including STL and CAD files.
-- **Schematics/** - Electrical schematics, wiring diagrams, and PCB designs.
-- **Documentation/** - Detailed project documentation and user manual.
-- **Images/** - Images and videos for visual reference.
+- **3dModels/** - All 3D design files, including STL and CAD files.
+- **circuitSchematic/** - Electrical schematics, wiring diagrams, and PCB designs.
+- **multimediaFiles/** - Images and videos for visual reference.
